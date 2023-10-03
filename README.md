@@ -1,6 +1,6 @@
 <h2>☄️ Hey! I'm Kadir.</h2>
 
-- 👾  I’m currently working with **React.js and anything related with JavaScript.**
+- 👾  I’m currently learning with **React.js and anything related with JavaScript.**
 
 - 💬  Ask me about **JavaScript, CSS and HTML**
 
