@@ -10,7 +10,7 @@ My Personal Repository
 
 - 💬  Ask me about **JavaScript, CSS and React.js.**
 
-- 📫  How to reach me **cengizcmataraci@gmail.com**
+- 📫  How to reach me **kadirht@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
