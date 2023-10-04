@@ -1,6 +1,6 @@
 <h2>☄️ Hey! I'm Kadir.</h2>
 <img align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" height="250"  />
-- 👾  I’m currently learning with **React.js and anything related with JavaScript.**
+- 👾  I’m currently learning **React.js and anything related with JavaScript.**
 
 - 💬  Ask me about **JavaScript, CSS and HTML**
 
