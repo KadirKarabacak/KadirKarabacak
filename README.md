@@ -1,12 +1,10 @@
 <h2>☄️ Hey! I'm Kadir.</h2>
-<img align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" height="250"  />
- <p>
- - ✍  I’m currently learning *React.js and anything related with JavaScript.*
-
-- 💬  Ask me about **JavaScript, CSS and HTML**
-
-- 📫  How to reach me **kadirht@hotmail.com**
-</p>
+<ul>
+ <li>I’m currently learning React.js and anything related with JavaScript.</li>
+ <li>Ask me about JavaScript, CSS and HTML.</li>
+ <li>How to reach me <a href="">kadirht@hotmail.com</a></li>
+</ul>
+<img align="right" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="300" height="250" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kadir-karabacak-/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="" height="30" width="30" /></a>
