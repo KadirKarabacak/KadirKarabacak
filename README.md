@@ -3,6 +3,7 @@
  <li>I’m currently learning React.js and anything related with JavaScript.</li>
  <li>Ask me about JavaScript, CSS and HTML.</li>
  <li>How to reach me <a href="">kadirht@hotmail.com</a></li>
+ <li>Also you can check my <a href="https://kadirk-portfolio.netlify.app/">Portfolio</a>😎</li>
 </ul>
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="300" />
 <h3 align="left">Connect with me:</h3>
