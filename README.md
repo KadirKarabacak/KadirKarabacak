@@ -5,7 +5,6 @@
  <li>How to reach me <a href="">kadirht@hotmail.com</a></li>
  <li>Also you can check my <a href="https://kadirk-portfolio.netlify.app/">Portfolio</a>😎</li>
 </ul>
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="300" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kadir-karabacak-/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="" height="30" width="30" /></a>
