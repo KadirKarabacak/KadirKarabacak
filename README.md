@@ -23,7 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="30" height="30" />
  </p>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mina&weight=700&size=20&pause=8000&color=00b4d8&vCenter=true&random=false&width=435&height=40&lines=Technologies+currently+on+it+%F0%9F%91%B6)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mina&weight=700&size=20&pause=8000&color=00b4d8&vCenter=true&random=false&width=435&height=40&lines=Technologies+currently+on+it+👍)](https://git.io/typing-svg)
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" />
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="30" height="30" /> -->
