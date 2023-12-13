@@ -1,4 +1,4 @@
-<h2>🚀 Hey! I'm Kadir.</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&pause=1000&color=F7941D&background=2F3E5A00&random=false&width=450&height=70&lines=+Hey!+I'am+Kadir!+%F0%9F%9A%80;I'am+a+Front-End+Developer%F0%9F%8C%8C;Always+learning+new+things+%F0%9F%8E%93)](https://git.io/typing-svg)
 <ul>
  <li>I’m currently learning **React** and anything related with JavaScript.</li>
  <li>Ask me about JavaScript, CSS and HTML.</li>
