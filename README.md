@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&pause=1000&color=F7941D&background=2F3E5A00&random=false&width=450&height=50&lines=+Hey!+I'am+Kadir!+%F0%9F%9A%80;I'am+a+Front-End+Developer%F0%9F%8C%8C;Always+learning+new+things+%F0%9F%8E%93)](https://git.io/typing-svg)
-I’m currently learning React and anything related with JavaScript.</li>
-Ask me about JavaScript, CSS and HTML.</li>
-How to reach me <a href="kadirht@hotmail.com">kadirht@hotmail.com</a></li>
-Also you can check my <a href="https://kadirk-portfolio.netlify.app/">Portfolio</a>🌌</li>
+##### I’m currently learning React and anything related with JavaScript.
+##### Ask me about JavaScript, CSS and HTML.
+##### How to reach me <a href="kadirht@hotmail.com">kadirht@hotmail.com</a>
+##### Also you can check my <a href="https://kadirk-portfolio.netlify.app/">Portfolio</a>🌌
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
