@@ -1,9 +1,9 @@
-<h2>☄️ Hey! I'm Kadir.</h2>
+<h2>🚀 Hey! I'm Kadir.</h2>
 <ul>
- <li>I’m currently learning React.js and anything related with JavaScript.</li>
+ <li>I’m currently learning **React** and anything related with JavaScript.</li>
  <li>Ask me about JavaScript, CSS and HTML.</li>
  <li>How to reach me <a href="kadirht@hotmail.com">kadirht@hotmail.com</a></li>
- <li>Also you can check my <a href="https://kadirk-portfolio.netlify.app/">Portfolio</a>😎</li>
+ <li>Also you can check my <a href="https://kadirk-portfolio.netlify.app/">Portfolio</a>🌌</li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
