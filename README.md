@@ -4,6 +4,8 @@
 <p> How to reach me <a href="kadirht@hotmail.com">kadirht@hotmail.com</a></p>
 <p> Also you can check my <a href="https://kadirk-portfolio.netlify.app/">Portfolio</a>🌌</p>
 
+<img src="https://tenor.com/kGAELpBw3wI.gif" align="right">
+
 <!--## Connect with me-->
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mina&weight=700&size=20&pause=8000&color=fcbf49&vCenter=true&random=false&width=435&height=40&lines=Connect+w%C4%B1th+me+%F0%9F%93%A8)](https://git.io/typing-svg)
 <p align="left">
