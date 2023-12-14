@@ -8,7 +8,7 @@
 
 
 <!--## Connect with me-->
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mina&weight=700&size=20&pause=8000&color=fcbf49&vCenter=true&random=false&width=435&height=40&lines=Connect+w%C4%B1th+me+%F0%9F%93%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mina&weight=700&size=20&pause=8000&color=fcbf49&vCenter=true&random=false&width=435&height=40&lines=Connect+w%C4%B1th+me+%F0%9F%93%A8)](https://git.io/typing-svg)
 <p align="left">
 <a href="https://www.linkedin.com/in/kadir-karabacak-/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="" height="30" width="30" /></a>
 <a href="https://www.instagram.com/kadir_krbck_/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="" height="30" width="30" /></a>
