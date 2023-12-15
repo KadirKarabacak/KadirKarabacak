@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&size=30&pause=1000&color=F7941D&background=2F3E5A00&random=false&width=450&height=55&lines=+Hey!+I'am+Kadir!+%F0%9F%9A%80;I'am+a+Front-End+Developer%F0%9F%8C%8C;Always+learning+new+things+%F0%9F%8E%93)](https://git.io/typing-svg)
-<img align="right" src="https://media1.tenor.com/m/epFxZ9nyQLIAAAAC/work-post.gif" width="300" height="300">
+<img align="right" src="https://media1.tenor.com/m/epFxZ9nyQLIAAAAC/work-post.gif" width="200" height="200">
 <p>I’m currently learning React and anything related with JavaScript.</p>
 <p> Ask me about JavaScript, CSS and HTML.</p>
 <p> How to reach me <a href="kadirht@hotmail.com">kadirht@hotmail.com</a></p>
