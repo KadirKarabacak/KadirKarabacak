@@ -3,7 +3,7 @@
 <p>I’m currently learning React and anything related with JavaScript.</p>
 <p> Ask me about JavaScript, CSS and HTML.</p>
 <p> How to reach me <a href="kadirht@hotmail.com">kadirht@hotmail.com</a></p>
-<p> Also you can check my <a href="https://kadirk-portfolio.netlify.app/">Portfolio</a>🌌</p>
+<h4> Also you can check my <span font-size: 30><a href="https://kadirk-portfolio.netlify.app/">Portfolio</a></span>🌌</h4>
 
 
 
