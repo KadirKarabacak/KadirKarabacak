@@ -4,6 +4,7 @@
 <p> Ask me about JavaScript, CSS and HTML.</p>
 <p> How to reach me <a href="kadirht@hotmail.com">kadirht@hotmail.com</a></p>
 <h4> Also you can check my <span font-size: 30><a href="https://kadirk-portfolio.netlify.app/">Portfolio</a></span>🌌</h4>
+<img src="https://seeklogo.com/images/B/buy-me-a-coffee-logo-F1878A1EB2-seeklogo.com.png" height="30" width="30"/> <a href="https://www.buymeacoffee.com/kadirkarabacak">Buy me a bug fixer 🕷</a>
 
 <!--## Connect with me-->
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mina&weight=700&size=25&pause=8000&color=fcbf49&vCenter=true&random=false&width=435&height=40&lines=Connect+w%C4%B1th+me+%F0%9F%93%A8)](https://git.io/typing-svg)
