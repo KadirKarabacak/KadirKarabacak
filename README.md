@@ -42,3 +42,5 @@
 <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/332023/code-sandbox-circle.svg" width="50" height="50"/>
 </p>
+
+![](https://komarev.com/ghpvc/?username=KadirKarabacak)
