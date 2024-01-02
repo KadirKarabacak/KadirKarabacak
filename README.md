@@ -29,6 +29,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*52qVwGlIyCWSQNDl.png" width="75" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
 </p>
  
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mina&weight=700&size=20&pause=8000&color=e5e5e5&vCenter=true&random=false&width=435&height=40&lines=Tools+🔧)](https://git.io/typing-svg)
