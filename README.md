@@ -29,7 +29,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" />
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*52qVwGlIyCWSQNDl.png" width="75" height="40" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nextjs-icon.svg" width="40" height="40" />
 
 </p>
  
