@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&size=30&pause=1000&color=F7941D&background=2F3E5A00&random=false&width=450&height=55&lines=+Hey!+I'am+Kadir!+%F0%9F%9A%80;I'am+a+Front-End+Developer%F0%9F%8C%8C;Always+learning+new+things+%F0%9F%8E%93)](https://git.io/typing-svg)
-<!--<img align="right" src="https://media1.tenor.com/m/epFxZ9nyQLIAAAAC/work-post.gif" width="150" height="150">-->
-<p>I’m currently learning React and anything related with JavaScript.</p>
-<p> Ask me about React, JavaScript, CSS and HTML.</p>
-<p> How to reach me <a href="kadirht@hotmail.com">kadirht@hotmail.com</a></p>
-<h4> Also you can check my <span font-size: 30><a href="https://kadirk-portfolio.netlify.app/">Portfolio</a></span>🌌</h4>
+
+* **I’m currently learning React and anything related with JavaScript.**
+* **Ask me about React, JavaScript, CSS and HTML.**
+* **How to reach me <a href="kadirht@hotmail.com">kadirht@hotmail.com</a>**
+* **<h4> Also you can check my <span font-size: 30><a href="https://kadirk-portfolio.netlify.app/">Portfolio</a></span>🌌</h4>**
 
 <!--## Connect with me-->
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mina&weight=700&size=25&pause=8000&color=fcbf49&vCenter=true&random=false&width=435&height=40&lines=Connect+w%C4%B1th+me+%F0%9F%93%A8)](https://git.io/typing-svg)
