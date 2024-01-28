@@ -41,7 +41,13 @@
 <img src="https://www.talentcoders.co/wp-content/uploads/2023/03/image-61.png" width="40" height="40"/>
 <img src="https://static-00.iconduck.com/assets.00/netlify-icon-2048x2048-xurlvzbi.png" width="40" height="40"/>
 <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/332023/code-sandbox-circle.svg" width="50" height="50"/>
+<img src="https://www.svgrepo.com/show/332023/code-sandbox-circle.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+
+
+          
 </p>
 
 ![](https://komarev.com/ghpvc/?username=KadirKarabacak)
