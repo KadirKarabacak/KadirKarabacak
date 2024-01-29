@@ -44,7 +44,8 @@
 <img src="https://static-00.iconduck.com/assets.00/netlify-icon-2048x2048-xurlvzbi.png" width="40" height="40"/>
 <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/332023/code-sandbox-circle.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" width="40" height="40" />
+<img src="https://c.staticblitz.com/assets/pwa-icon-f559737e5eae9b3544e5cc1291118bf758ee20873d496f1ce2052859fb3b72d6.png" width="40" height="40" />
 
 
 
