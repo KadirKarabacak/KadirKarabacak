@@ -46,10 +46,8 @@
 <img src="https://www.svgrepo.com/show/332023/code-sandbox-circle.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" width="40" height="40" />
 <img src="https://c.staticblitz.com/assets/pwa-icon-f559737e5eae9b3544e5cc1291118bf758ee20873d496f1ce2052859fb3b72d6.png" width="40" height="40" />
-
-
-
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="40" height="40" />
+       
 </p>
 
 ![](https://komarev.com/ghpvc/?username=KadirKarabacak)
