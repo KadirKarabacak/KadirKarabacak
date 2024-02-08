@@ -23,6 +23,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
+ 
  </p>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mina&weight=700&size=25&pause=60000&color=00b4d8&vCenter=true&random=false&width=435&height=40&lines=Technologies+currently+on+it+👍)](https://git.io/typing-svg)
@@ -31,8 +33,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nextjs-icon.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />
-
 </p>
  
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mina&weight=700&size=20&pause=60000&color=e5e5e5&vCenter=true&random=false&width=435&height=40&lines=Tools+🔧)](https://git.io/typing-svg)
