@@ -32,6 +32,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nextjs-icon.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="38" height="38" />
+
 </p>
  
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mina&weight=700&size=20&pause=60000&color=00b4d8&vCenter=true&random=false&width=435&height=40&lines=Tools+🔧)](https://git.io/typing-svg)
