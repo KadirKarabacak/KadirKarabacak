@@ -40,7 +40,6 @@
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
-<img src="https://pbs.twimg.com/profile_images/451968255846928384/0pyDMTyp_400x400.png" width="40" height="40"/>
 <img src="https://www.talentcoders.co/wp-content/uploads/2023/03/image-61.png" width="40" height="40"/>
 <img src="https://static-00.iconduck.com/assets.00/netlify-icon-2048x2048-xurlvzbi.png" width="40" height="40"/>
 <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" width="40" height="40"/>
