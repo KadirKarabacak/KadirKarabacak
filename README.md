@@ -1,11 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&size=30&pause=1000&color=00b4d8&background=2F3E5A00&random=false&width=450&height=55&lines=+Hey!+I'am+Kadir!+%F0%9F%9A%80;I'am+a+Front-End+Developer%F0%9F%8C%8C;Always+learning+new+things+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 * **I’m currently learning React and anything related with JavaScript.**
-* **Ask me about React, JavaScript, CSS and HTML.**...
+* **Ask me about React, JavaScript, CSS and HTML.**
 * **How to reach me <a href="kadirht@hotmail.com">kadirht@hotmail.com</a>**
 * **Also you can check my <a href="https://kadirk-portfolio.netlify.app/">Portfolio</a>🌌**
 
-<!--## Connect with me-->
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mina&weight=700&size=25&pause=60000&color=00b4d8&vCenter=true&random=false&width=435&height=40&lines=Connect+w%C4%B1th+me+%F0%9F%93%A8)](https://git.io/typing-svg)
 <p align="left">
 <a href="https://www.linkedin.com/in/kadir-karabacak-/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="" height="30" width="30" /></a>
