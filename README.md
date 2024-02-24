@@ -13,7 +13,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mina&weight=700&size=25&pause=60000&color=90be6d&vCenter=true&random=false&width=435&height=40&lines=Technologies+i+know+%F0%9F%92%AA)](https://git.io/typing-svg)
 <p align="left"> 
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
  <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
