@@ -32,6 +32,8 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nextjs-icon.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="38" height="38" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" width="40" height="40" />
+<img src="https://www.svgrepo.com/show/354263/react-spring.svg" width="40" height="40" />
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-framer-3628781-3030143.png" width="40" height="40" />
 
 
 </p>
