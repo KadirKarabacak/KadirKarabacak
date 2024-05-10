@@ -12,21 +12,21 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mina&weight=700&size=25&pause=60000&color=90be6d&vCenter=true&random=false&width=435&height=40&lines=Technologies+i+know+%F0%9F%92%AA)](https://git.io/typing-svg)
 <p align="left"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"  />          
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*52qVwGlIyCWSQNDl.png" width="75" height="40" />
 <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
 <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="55" height="55" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"  />          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />         
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" width="40" height="40" />
 <img src="https://www.svgrepo.com/show/354263/react-spring.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*52qVwGlIyCWSQNDl.png" width="75" height="40" />
  </p>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mina&weight=700&size=25&pause=60000&color=90be6d&vCenter=true&random=false&width=435&height=40&lines=Technologies+currently+on+it+👍)](https://git.io/typing-svg)
