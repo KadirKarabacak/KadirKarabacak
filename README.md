@@ -84,8 +84,6 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nextjs-icon.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="38" height="38" />
 <img src="https://cdn.iconscout.com/icon/free/png-256/free-framer-3628781-3030143.png" width="40" height="40" />
-
-
 </p>
  
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mina&weight=700&size=20&pause=60000&color=90be6d&vCenter=true&random=false&width=435&height=40&lines=Tools+🔧)](https://git.io/typing-svg)
@@ -93,7 +91,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
 <img src="https://www.talentcoders.co/wp-content/uploads/2023/03/image-61.png" width="40" height="40"/>
-<img src="https://static-00.iconduck.com/assets.00/netlify-icon-2048x2048-xurlvzbi.png" width="40" height="40"/>
 <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/332023/code-sandbox-circle.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" width="40" height="40" />
