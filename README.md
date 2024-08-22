@@ -66,9 +66,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"  />          
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> 
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*52qVwGlIyCWSQNDl.png" width="75" height="40" />
+<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*52qVwGlIyCWSQNDl.png" width="75" height="40" /> <br>
 <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
 <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="55" height="55" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" />
