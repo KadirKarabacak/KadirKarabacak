@@ -2,7 +2,6 @@
 
  ### **How to reach me <a href="kadirht@hotmail.com">kadirht@hotmail.com</a>**
  ### **Also you can check my <a href="https://kadirk-portfolio.netlify.app/">Portfolio</a>🌌**
- ### **My latest project <a href="https://ex-reminder.netlify.app/">Ex-Reminder</a>** 👨🏻‍💻
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mina&weight=700&size=25&pause=60000&color=90be6d&vCenter=true&random=false&width=435&height=40&lines=Connect+w%C4%B1th+me+%F0%9F%93%A8)](https://git.io/typing-svg)
 <p align="left">
