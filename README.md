@@ -45,9 +45,9 @@
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/nextjs-icon.svg" width="48" height="48" />
     <br>NextJS
    </td>
-   <td align="center" width="96" height="96">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-framer-3628781-3030143.png" width="40" height="40" />
-    <br>Framer
+    <td align="center" width="120" height="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" />
+    <br>Tailwind
    </td>
   </tr>
   <tr>
@@ -55,9 +55,9 @@
     <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="55" height="55" />
     <br>SASS
    </td>
-   <td align="center" width="120" height="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" />
-    <br>Tailwind
+   <td align="center" width="96" height="96">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-framer-3628781-3030143.png" width="40" height="40" />
+    <br>Framer
    </td>
    <td align="center" width="120" height="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48" height="48" />
