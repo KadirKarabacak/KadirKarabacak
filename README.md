@@ -52,6 +52,10 @@
   </tr>
   <tr>
    <td align="center" width="120" height="96">
+    <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="icon" width="55" height="55" />
+    <br>Tanstack
+   </td>
+   <td align="center" width="120" height="96">
     <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="55" height="55" />
     <br>SASS
    </td>
