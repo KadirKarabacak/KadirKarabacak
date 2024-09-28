@@ -72,7 +72,7 @@
     <br>Appwrite
    </td>
    <td align="center" width="96" height="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="38" height="38" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="50" height="50" />
     <br>Supabase
    </td>
    <td align="center" width="120" height="96">
@@ -80,7 +80,7 @@
     <br>Spring
    </td>
    <td align="center" width="120" height="96">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" width="40" height="40" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" width="50" height="50" />
     <br>ReactStrap
    </td>
   </tr> 
