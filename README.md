@@ -106,7 +106,7 @@
   <!-- Sandbox - Stackblitz -->
    <td align="center" width="96" height="96">
     <img src="https://www.svgrepo.com/show/332023/code-sandbox-circle.svg" width="48" height="48"/>
-    <br>CodeSandbox
+    <br>Sandbox
    </td>
    <td align="center" width="96" height="96">
     <img src="https://c.staticblitz.com/assets/pwa-icon-f559737e5eae9b3544e5cc1291118bf758ee20873d496f1ce2052859fb3b72d6.png" width="48" height="48"/>
