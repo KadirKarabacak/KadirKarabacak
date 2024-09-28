@@ -103,7 +103,6 @@
     <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" width="48" height="48" />
     <br>Vercel
    </td>
-  <!-- Sandbox - Stackblitz -->
    <td align="center" width="96" height="96">
     <img src="https://www.svgrepo.com/show/332023/code-sandbox-circle.svg" width="48" height="48"/>
     <br>Sandbox
@@ -113,8 +112,8 @@
     <br>Stackblitz
    </td>
    <td align="center" width="96" height="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="48" height="48" />
-    <br>VS Code
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" /> 
+    <br>Git
    </td>
    <td align="center" width="96" height="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" width="48" height="48" />
@@ -143,8 +142,8 @@
     <br>Babel
    </td>
    <td align="center" width="96" height="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" /> 
-    <br>Git
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="48" height="48" />
+    <br>VS Code
    </td>
    <td align="center" width="96" height="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" />
