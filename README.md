@@ -5,8 +5,8 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mina&weight=700&size=25&pause=60000&color=90be6d&vCenter=true&random=false&width=435&height=40&lines=Connect+w%C4%B1th+me)](https://git.io/typing-svg)
 <p align="left">
-<a href="https://www.linkedin.com/in/kadir-karabacak-/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="" height="30" width="30" /></a>
-<a href="https://www.instagram.com/kadir_krbck_/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/kadir-karabacak-/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="" height="40" width="40" /></a>
+<a href="https://www.instagram.com/kadir_krbck_/" target="blank" rel=”noopener”><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="" height="40" width="40" /></a>
 </p>
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mina&weight=700&size=25&pause=60000&color=90be6d&vCenter=true&random=false&width=435&height=40&lines=Technologies+and+libraries+i+know)](https://git.io/typing-svg)
