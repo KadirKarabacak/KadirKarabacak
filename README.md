@@ -120,16 +120,18 @@
     <br>Git
    </td>
    <td align="center" width="96" height="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" width="48" height="48" />
-    <br>Eslint
-   </td>
-   <td align="center" width="96" height="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="48" height="48"/>
     <br>Cypress
    </td>
    <td align="center" width="96" height="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48" height="48"/>
     <br>Postman
+   </td>
+ </tr>
+  <tr>
+   <td align="center" width="96" height="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" width="48" height="48" />
+    <br>Eslint
    </td>
    <td align="center" width="96" height="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" width="48" height="48"/>
@@ -139,8 +141,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="48" height="48"/>
     <br>Npm
    </td>
- </tr>
-  <tr>
    <td align="center" width="96" height="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" width="48" height="48"/>
     <br>Babel
@@ -155,6 +155,16 @@
    </td>
   </tr>
 </table>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <!-- <p align="left" style="display: flex; gap: 5px; "> -->
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/> -->
