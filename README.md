@@ -142,12 +142,12 @@
     <br>Npm
    </td>
    <td align="center" width="96" height="96">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" width="48" height="48"/>
-    <br>Babel
-   </td>
-   <td align="center" width="96" height="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="48" height="48" />
     <br>VS Code
+   </td>
+   <td align="center" width="96" height="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" width="48" height="48"/>
+    <br>Babel
    </td>
    <td align="center" width="96" height="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" />
