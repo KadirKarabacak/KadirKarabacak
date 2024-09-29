@@ -84,8 +84,8 @@
     <br>Spring
    </td>
    <td align="center" width="120" height="96">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg" width="50" height="50" />
-    <br>ReactStrap
+     <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="50" height="50" />
+    <br>Zustand
    </td>
   </tr> 
 </table>
