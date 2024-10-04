@@ -26,7 +26,7 @@
     <br>Bootstrap
    </td>
    <td align="center" width="120" height="96">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="44" height="44" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="icon" width="44" height="44" />
     <br>Javascript
    </td>
    <td align="center" width="120" height="96">
@@ -88,6 +88,28 @@
     <br>Zustand
    </td>
   </tr> 
+  <tr>
+   <td align="center" width="120" height="96">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" />
+    <br>MongoDB
+   </td>
+   <td align="center" width="120" height="96">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" height="50" />
+    <br>ExpressJS
+   </td>
+   <td align="center" width="120" height="96">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+    <br>NodeJS
+   </td>
+   <td align="center" width="120" height="96">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="50" height="50" />
+    <br>VueJS
+   </td>
+   <td align="center" width="120" height="96">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="50" height="50" />
+    <br>NuxtJS
+   </td>
+  </tr>
 </table>
 
 <br>
@@ -127,8 +149,24 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48" height="48"/>
     <br>Postman
    </td>
+   <td align="center" width="96" height="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postcss/postcss-original.svg" width="48" height="48"/>
+    <br>Postcss
+   </td>
+   <td align="center" width="96" height="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rollup/rollup-original.svg" width="48" height="48"/>
+    <br>Rollup
+   </td>
+   <td align="center" width="96" height="96">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" width="48" height="48" />
+    <br>Nodemon
+   </td>
  </tr>
   <tr>
+   <td align="center" width="96" height="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="48" height="48" />
+    <br>Vite
+   </td>
    <td align="center" width="96" height="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg" width="48" height="48" />
     <br>Eslint
