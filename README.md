@@ -193,7 +193,7 @@
    </td>
    <td align="center" width="96" height="96">
     <img src="https://media.theresanaiforthat.com/icons/cursor-ai.svg?width=100" width="48" height="48" />
-    <br>Cursor AI
+    <br>CursorAI
    </td>
   </tr>
 </table>
