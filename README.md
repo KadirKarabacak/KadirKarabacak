@@ -191,6 +191,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="48" height="48" />
     <br>VS Code
    </td>
+   <td align="center" width="96" height="96">
+    <img src="https://media.theresanaiforthat.com/icons/cursor-ai.svg?width=100" width="48" height="48" />
+    <br>Cursor AI
+   </td>
   </tr>
 </table>
 
