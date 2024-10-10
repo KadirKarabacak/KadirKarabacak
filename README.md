@@ -109,6 +109,10 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" width="50" height="50" />
     <br>NuxtJS
    </td>
+   <td align="center" width="120" height="96">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Pinialogo.svg" width="50" height="50" />
+    <br>Pinia
+   </td>
   </tr>
 </table>
 
