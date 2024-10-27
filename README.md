@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&size=28&pause=1000&color=90be6d&background=2F3E5A00&random=false&width=450&height=55&lines=+Hey!+I'am+Kadir!+%F0%9F%9A%80;I'am+a+Front-End+Developer%F0%9F%8C%8C;Always+learning+new+things+%F0%9F%8E%93)](https://git.io/typing-svg)
  * **How to reach me <a href="kadirht@hotmail.com">kadirht@hotmail.com</a>**
- * **Also you can check my <a href="https://kadirk-portfolio.netlify.app/">Portfolio</a>🌌**
+ * **Also you can check my <a href="https://kadirk-portfolio.vercel.app/">Portfolio</a>🟢**
  * **Check <a href="https://ex-reminder.netlify.app/">Ex-Reminder</a>** from here!
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mina&weight=700&size=25&pause=60000&color=90be6d&vCenter=true&random=false&width=435&height=40&lines=Connect+w%C4%B1th+me)](https://git.io/typing-svg)
