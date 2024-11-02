@@ -113,6 +113,10 @@
      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Pinialogo.svg" width="50" height="50" />
     <br>Pinia
    </td>
+   <td align="center" width="120" height="96">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAjouFTAB2PcXfnfkjy1SUjkaMeaymXnzoOA&s" width="50" height="50" />
+    <br>ShadcnUI
+   </td>
   </tr>
 </table>
 
