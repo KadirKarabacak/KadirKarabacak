@@ -203,6 +203,14 @@
     <img src="https://media.theresanaiforthat.com/icons/cursor-ai.svg?width=100" width="48" height="48" />
     <br>Cursor
    </td>
+   <td align="center" width="96" height="96">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" height="48" />
+    <br>Redis
+   </td>
+   <td align="center" width="96" height="96">
+    <img src="https://resend.com/static/brand/resend-icon-white.png" width="48" height="48" />
+    <br>Resend
+   </td>
   </tr>
 </table>
 
