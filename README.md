@@ -52,7 +52,7 @@
   </tr>
   <tr>
    <td align="center" width="120" height="96">
-    <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="icon" width="55" height="55" />
+    <img src="https://www.joesalinas.dev/_astro/rq.B6e3R7T5_SNg64.webp" alt="icon" width="55" height="55" />
     <br>Tanstack
    </td>
    <td align="center" width="120" height="96">
@@ -87,12 +87,13 @@
     <img src="https://www.svgrepo.com/show/354263/react-spring.svg" width="48" height="48" />
     <br>Spring
    </td>
+   
+  </tr> 
+  <tr>
    <td align="center" width="120" height="96">
      <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="50" height="50" />
     <br>Zustand
    </td>
-  </tr> 
-  <tr>
    <td align="center" width="120" height="96">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" />
     <br>MongoDB
