@@ -68,6 +68,10 @@
     <br>MUI
    </td>
    <td align="center" width="120" height="96">
+    <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29184438/naive-ui-logo-A29B497AA3-seeklogo.com.png" width="48" height="48" />
+    <br>NaiveUI
+   </td>
+   <td align="center" width="120" height="96">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" width="48" height="48" />
     <br>Firebase
    </td>
