@@ -68,7 +68,7 @@
     <br>MUI
    </td>
    <td align="center" width="120" height="96">
-    <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/29184438/naive-ui-logo-A29B497AA3-seeklogo.com.png" width="48" height="48" />
+    <img src="https://images.seeklogo.com/logo-png/43/1/naive-ui-logo-png_seeklogo-435656.png" width="48" height="48" />
     <br>NaiveUI
    </td>
    <td align="center" width="120" height="96">
@@ -213,7 +213,7 @@
     <br>Redis
    </td>
    <td align="center" width="96" height="96">
-    <img src="https://resend.com/static/brand/resend-icon-white.png" width="48" height="48" />
+    <img src="https://cdn.simpleicons.org/resend/000000" width="48" height="48" />
     <br>Resend
    </td>
   </tr>
